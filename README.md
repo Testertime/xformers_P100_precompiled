@@ -1,2 +1,3 @@
-# xformers_P100_precompiled
-Precompiled xformers for Nvidia P100
+# xformers P100 precompiled
+
+Here I'm sharing precompiled xformers for the Nvidia P100. Additional details are in the release notes!
